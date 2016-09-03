@@ -4,3 +4,4 @@ I love Ruby and JavaScript!
 *I love Cloud programing.
 *I love C lang
 *I love Go lang
+*I love git rebase
